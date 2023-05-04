@@ -61,7 +61,6 @@ img {
 }
 
 .announcement div:first-child {
-  /* display: block; */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -201,7 +200,7 @@ input {
 .section {
   background: black;
   padding: 3rem 0;
-  /* border-top: 8px solid #222; */
+  border-top: 8px solid #222;
 }
 
 section h1 {
@@ -413,7 +412,7 @@ section h1 {
 
 .footer-language {
   max-width: 130px;
-  border:  1px solid #333;
+  border: 1px solid #333;
   border-radius: 5px;
   padding: 2px;
   margin: 10px 30px;
@@ -429,9 +428,8 @@ section h1 {
 
 .footer p:nth-child(2n) {
   font-size: 14px;
-  color: rgba(255, 255, 255, 0.7);;
+  color: rgba(255, 255, 255, 0.7);
 }
-
 
 /* Responsivo */
 
@@ -598,5 +596,4 @@ section h1 {
     display: grid;
     grid-template-columns: 1fr;
   }
-
 }
