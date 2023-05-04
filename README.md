@@ -2,7 +2,7 @@
   💻<br>Clone Netflix
 </h1>
 
-<h4 align="center"><a href="https://portifolio-emerson-araujo.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://clone-netflix-neon-six.vercel.app/" target="_blank">Clique para visitar o projeto</a></h4>
 
 
 ---
